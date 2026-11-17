@@ -1,6 +1,6 @@
 {
   "name": "@yuzhi535/pi-idlecompact",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Pi extension that auto-compacts after 30 minutes idle, at 500k for large-window models, and at 256k for 272k-window GPT/Codex models.",
   "license": "MIT",
   "author": "yuzhi535",
