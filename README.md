@@ -20,7 +20,7 @@ pi install git:github.com/yuzhi535/pi-idlecompact
 Then `/reload` or restart Pi. Once the package is on npm, this will also work:
 
 ```bash
-pi install npm:pi-idlecompact
+pi install npm:@yuzhi535/pi-idlecompact
 ```
 
 Requires Pi 1.5 or newer.
